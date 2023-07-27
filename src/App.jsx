@@ -1,6 +1,6 @@
 /* eslint-disable react/forbid-prop-types */
 import { Preloader } from '@/components/common';
-import PropType from 'prop-types';
+// import PropType from 'prop-types';
 import React, { StrictMode } from 'react';
 import { Provider } from 'react-redux';
 import { PersistGate } from 'redux-persist/integration/react';
