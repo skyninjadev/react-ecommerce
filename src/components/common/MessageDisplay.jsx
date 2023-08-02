@@ -14,7 +14,7 @@ const MessageDisplay = ({
         onClick={action}
         type="button"
       >
-        {buttonLabel || 'Yes'}
+        {buttonLabel || 'Okay'}
       </button>
     )}
   </div>
